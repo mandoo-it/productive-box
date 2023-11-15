@@ -123,7 +123,7 @@ interface IRepo {
       [filename]: {
         filename:
           morning + daytime > evening + night
-            ? "I'm an early 🐤"
+            ? "아침에 또랑또랑한 🐤"
             : "I'm a night 🦉",
         content: lines.join('\n'),
       },
